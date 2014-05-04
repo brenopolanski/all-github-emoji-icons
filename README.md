@@ -20,6 +20,13 @@
 | -------- | ------ | ---------- | --------- | ------- |
 | cactus   | cake   | calendar   | calling   | camel   |
 
+## D
+
+| :dancer: | :dancers: | :dango: | :dart: | :dash: |
+| -------- | --------- | ------- | ------ | ------ |
+| dancer   | dancers   | dango   | dart   | dash   |
+
+
 ## Contributing
 
 1. Fork it!
