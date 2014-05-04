@@ -37,6 +37,11 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | --------- | ------- | ------ | ------ |
 | dancer   | dancers   | dango   | dart   | dash   |
 
+## E
+
+| :e-mail: | :ear: | :ear_of_rice: | :earth_africa: | :earth_americas: |
+| -------- | ----- | ------------- | -------------- | ---------------- |
+| e-mail   | ear   | ear_of_rice   | earth_africa   | earth_americas   |
 
 ## Contributing
 
