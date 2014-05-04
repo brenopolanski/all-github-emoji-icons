@@ -2,6 +2,17 @@
 
 ![all-github-emoji-icons](https://raw.githubusercontent.com/brenopolanski/all-github-emoji-icons/master/all-github-emoji-icons.jpg)
 
+## How to use
+
+The short-codes for these Emoji’s are very simple. Just surround the name of the emoji with colons. For example:
+
+    git commit -m 'Fixed whatever, time for :beers:'
+    git commit -m 'Updated README :cat2:'
+    git commit -m 'Meow meow meow :octocat:'
+    git commit -m ':toilet:'
+
+> This works in commit messages, Markdown files and in comments.
+
 ## A
 
 | :a: | :ab: | :abc: | :abcd: | :accept: |
