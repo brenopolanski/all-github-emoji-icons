@@ -67,6 +67,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ---------- | ---- | --------------------- | ----- |
 | ice_cream   | icecream   | id   | ideograph_advantage   | imp   |
 
+## J
+
+| :jack_o_lantern: | :japan: | :japanese_castle: | :japanese_goblin: | :japanese_ogre: |
+| ---------------- | ------- | ----------------- | ----------------- | --------------- |
+| jack_o_lantern   | japan   | japanese_castle   | japanese_goblin   | japanese_ogre   |
+
 ## Contributing
 
 1. Fork it!
