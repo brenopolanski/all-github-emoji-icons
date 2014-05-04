@@ -55,6 +55,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ---- | ----- | -------- | ------- |
 | facepunch   | gb   | gem   | gemini   | ghost   |
 
+## H
+
+| :haircut: | :hamburger: | :hammer: | :hamster: | :hand: |
+| --------- | ----------- | -------- | --------- | ------ |
+| haircut   | hamburger   | hammer   | hamster   | hand   |
+
 ## Contributing
 
 1. Fork it!
