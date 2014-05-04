@@ -61,6 +61,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --------- | ----------- | -------- | --------- | ------ |
 | haircut   | hamburger   | hammer   | hamster   | hand   |
 
+## I
+
+| :ice_cream: | :icecream: | :id: | :ideograph_advantage: | :imp: |
+| ----------- | ---------- | ---- | --------------------- | ----- |
+| ice_cream   | icecream   | id   | ideograph_advantage   | imp   |
+
 ## Contributing
 
 1. Fork it!
