@@ -49,6 +49,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | --------- | ------------- | -------- | -------------- |
 | facepunch   | factory   | fallen_leaf   | family   | fast_forward   |
 
+## G
+
+| :facepunch: | :gb: | :gem: | :gemini: | :ghost: |
+| ----------- | ---- | ----- | -------- | ------- |
+| facepunch   | gb   | gem   | gemini   | ghost   |
+
 ## Contributing
 
 1. Fork it!
