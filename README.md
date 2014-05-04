@@ -14,6 +14,12 @@
 | --- | ------ | ------------- | ------------ | ------------- |
 | b   | baby   | baby_bottle   | baby_chick   | baby_symbol   |
 
+## C
+
+| :cactus: | :cake: | :calendar: | :calling: | :camel: |
+| -------- | ------ | ---------- | --------- | ------- |
+| cactus   | cake   | calendar   | calling   | camel   |
+
 ## Contributing
 
 1. Fork it!
