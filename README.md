@@ -7,3 +7,9 @@
 | :a: | :ab: | :abc: | :abcd: | :accept: |
 | --- | ---- | ----- | ------ | -------- |
 | a   | ab   | abc   | abcd   | accept   |
+
+## B
+
+| :b: | :baby: | :baby_bottle: | :baby_chick: | :baby_symbol: |
+| --- | ------ | ------------- | ------------ | ------------- |
+| b   | baby   | baby_bottle   | baby_chick   | baby_symbol   |
