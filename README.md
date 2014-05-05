@@ -19,11 +19,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ---- | ----- | ------ | -------- |
 | a   | ab   | abc   | abcd   | accept   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## B
 
 | :b: | :baby: | :baby_bottle: | :baby_chick: | :baby_symbol: |
 | --- | ------ | ------------- | ------------ | ------------- |
 | b   | baby   | baby_bottle   | baby_chick   | baby_symbol   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## C
 
@@ -31,11 +35,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | ------ | ---------- | --------- | ------- |
 | cactus   | cake   | calendar   | calling   | camel   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## D
 
 | :dancer: | :dancers: | :dango: | :dart: | :dash: |
 | -------- | --------- | ------- | ------ | ------ |
 | dancer   | dancers   | dango   | dart   | dash   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## E
 
@@ -43,11 +51,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | ----- | ------------- | -------------- | ---------------- |
 | e-mail   | ear   | ear_of_rice   | earth_africa   | earth_americas   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## F
 
 | :facepunch: | :factory: | :fallen_leaf: | :family: | :fast_forward: |
 | ----------- | --------- | ------------- | -------- | -------------- |
 | facepunch   | factory   | fallen_leaf   | family   | fast_forward   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## G
 
@@ -55,11 +67,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ---- | ----- | -------- | ------- |
 | facepunch   | gb   | gem   | gemini   | ghost   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## H
 
 | :haircut: | :hamburger: | :hammer: | :hamster: | :hand: |
 | --------- | ----------- | -------- | --------- | ------ |
 | haircut   | hamburger   | hammer   | hamster   | hand   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## I
 
@@ -67,11 +83,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ---------- | ---- | --------------------- | ----- |
 | ice_cream   | icecream   | id   | ideograph_advantage   | imp   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## J
 
 | :jack_o_lantern: | :japan: | :japanese_castle: | :japanese_goblin: | :japanese_ogre: |
 | ---------------- | ------- | ----------------- | ----------------- | --------------- |
 | jack_o_lantern   | japan   | japanese_castle   | japanese_goblin   | japanese_ogre   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## K
 
@@ -79,11 +99,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----- | ------------ | -------- | ------ | --------- |
 | key   | keycap_ten   | kimono   | kiss   | kissing   |
 
+**[⬆ back to top](#how-to-use)**
+
 ## L
 
 | :lantern: | :large_blue_circle: | :large_blue_diamond: | :large_orange_diamond: | :last_quarter_moon: |
 | --------- | ------------------- | -------------------- | ---------------------- | ------------------- |
 | lantern   | large_blue_circle   | large_blue_diamond   | large_orange_diamond   | last_quarter_moon   |
+
+**[⬆ back to top](#how-to-use)**
 
 ## Contributing
 
