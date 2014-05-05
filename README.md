@@ -73,6 +73,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ---------------- | ------- | ----------------- | ----------------- | --------------- |
 | jack_o_lantern   | japan   | japanese_castle   | japanese_goblin   | japanese_ogre   |
 
+## K
+
+| :key: | :keycap_ten: | :kimono: | :kiss: | :kissing: |
+| ----- | ------------ | -------- | ------ | --------- |
+| key   | keycap_ten   | kimono   | kiss   | kissing   |
+
 ## Contributing
 
 1. Fork it!
