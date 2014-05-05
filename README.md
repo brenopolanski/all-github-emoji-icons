@@ -79,6 +79,12 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----- | ------------ | -------- | ------ | --------- |
 | key   | keycap_ten   | kimono   | kiss   | kissing   |
 
+## L
+
+| :lantern: | :large_blue_circle: | :large_blue_diamond: | :large_orange_diamond: | :last_quarter_moon: |
+| --------- | ------------------- | -------------------- | ---------------------- | ------------------- |
+| lantern   | large_blue_circle   | large_blue_diamond   | large_orange_diamond   | last_quarter_moon   |
+
 ## Contributing
 
 1. Fork it!
