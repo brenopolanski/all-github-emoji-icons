@@ -117,6 +117,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## N
+
+| :nail_care: | :name_badge: | :neckbeard: | :necktie: | :negative_squared_cross_mark: |
+| ----------- | ------------ | ----------- | --------- | ----------------------------- |
+| nail_care   | name_badge   | neckbeard   | necktie   | negative_squared_cross_mark   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
