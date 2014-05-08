@@ -133,6 +133,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## P
+
+| :package: | :page_facing_up: | :page_with_curl: | :pager: | :palm_tree: |
+| --------- | ---------------- | ---------------- | ------- | ----------- |
+| package   | page_facing_up   | page_with_curl   | pager   | palm_tree   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
