@@ -125,6 +125,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## O
+
+| :o: | :o2: | :ocean: | :octocat: | :octopus: |
+| --- | ---- | ------- | --------- | --------- |
+| o   | o2   | ocean   | octocat   | octopus   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
