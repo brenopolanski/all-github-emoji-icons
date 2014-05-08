@@ -143,7 +143,13 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 | :question: |
 | ---------- |
-| :question: |
+| question   |
+
+## R
+
+| :rabbit: | :rabbit2: | :racehorse: | :radio: | :radio_button: |
+| -------- | --------- | ----------- | ------- | -------------- |
+| rabbit   | rabbit2   | racehorse   | radio   | radio_button   |
 
 **[⬆ back to top](#how-to-use)**
 
