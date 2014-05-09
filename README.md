@@ -169,6 +169,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## U
+
+| :u5272: | :u5408: | :u55b6: | :u6307: | :u6708: |
+| ------- | ------- | ------- | ------- | ------- |
+| u5272   | u5408   | u55b6   | u6307   | u6708   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
