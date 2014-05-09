@@ -153,6 +153,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## S
+
+| :sa: | :sagittarius: | :sailboat: | :sake: | :sandal: |
+| ---- | ------------- | ---------- | ------ | -------- |
+| sa   | sagittarius   | sailboat   | sake   | sandal   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
