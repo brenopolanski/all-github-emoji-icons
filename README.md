@@ -161,6 +161,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## T
+
+| :tada: | :tanabata_tree: | :tangerine: | :taurus: | :taxi: |
+| ------ | --------------- | ----------- | -------- | ------ |
+| tada   | tanabata_tree   | tangerine   | taurus   | taxi   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
