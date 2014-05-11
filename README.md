@@ -63,9 +63,9 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 ## G
 
-| :facepunch: | :gb: | :gem: | :gemini: | :ghost: |
-| ----------- | ---- | ----- | -------- | ------- |
-| facepunch   | gb   | gem   | gemini   | ghost   |
+| :game_die: | :gb: | :gem: | :gemini: | :ghost: |
+| ---------- | ---- | ----- | -------- | ------- |
+| :game_die: | gb   | gem   | gemini   | ghost   |
 
 **[⬆ back to top](#how-to-use)**
 
