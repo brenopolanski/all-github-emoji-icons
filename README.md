@@ -193,6 +193,30 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## X
+
+| :x: |
+| --- |
+| x   |
+
+**[⬆ back to top](#how-to-use)**
+
+## Y
+
+| :yellow_heart: | :yen: | :yum: |
+| -------------- | ----- | ----- |
+| yellow_heart   | yen   | yum   |
+
+**[⬆ back to top](#how-to-use)**
+
+## Z
+
+| :zap: | :zero: | :zzz: |
+| ----- | ------ | ----- |
+| zap   | zero   | zzz   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
