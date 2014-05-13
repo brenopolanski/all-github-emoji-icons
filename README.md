@@ -185,6 +185,14 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 
 **[⬆ back to top](#how-to-use)**
 
+## W
+
+| :walking: | :waning_crescent_moon: | :waning_gibbous_moon: | :warning: | :watch: |
+| --------- | ---------------------- | --------------------- | --------- | ------- |
+| :walking: | waning_crescent_moon   | waning_gibbous_moon   | warning   | watch   |
+
+**[⬆ back to top](#how-to-use)**
+
 ## Contributing
 
 1. Fork it!
