@@ -1,4 +1,4 @@
-# All Github Emoji Icons
+# All GitHub Emoji Icons
 
 ![all-github-emoji-icons](https://raw.githubusercontent.com/brenopolanski/all-github-emoji-icons/master/all-github-emoji-icons.jpg)
 
@@ -19,7 +19,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ---- | ----- | ------ | -------- |
 | a   | ab   | abc   | abcd   | accept   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## B
 
@@ -27,7 +27,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ------ | ------------- | ------------ | ------------- |
 | b   | baby   | baby_bottle   | baby_chick   | baby_symbol   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## C
 
@@ -35,7 +35,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | ------ | ---------- | --------- | ------- |
 | cactus   | cake   | calendar   | calling   | camel   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## D
 
@@ -43,7 +43,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | --------- | ------- | ------ | ------ |
 | dancer   | dancers   | dango   | dart   | dash   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## E
 
@@ -51,7 +51,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | ----- | ------------- | -------------- | ---------------- |
 | e-mail   | ear   | ear_of_rice   | earth_africa   | earth_americas   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## F
 
@@ -59,7 +59,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | --------- | ------------- | -------- | -------------- |
 | facepunch   | factory   | fallen_leaf   | family   | fast_forward   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## G
 
@@ -67,7 +67,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ---------- | ---- | ----- | -------- | ------- |
 | game_die   | gb   | gem   | gemini   | ghost   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## H
 
@@ -75,7 +75,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --------- | ----------- | -------- | --------- | ------ |
 | haircut   | hamburger   | hammer   | hamster   | hand   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## I
 
@@ -83,7 +83,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ---------- | ---- | --------------------- | ----- |
 | ice_cream   | icecream   | id   | ideograph_advantage   | imp   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## J
 
@@ -91,7 +91,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ---------------- | ------- | ----------------- | ----------------- | --------------- |
 | jack_o_lantern   | japan   | japanese_castle   | japanese_goblin   | japanese_ogre   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## K
 
@@ -99,7 +99,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----- | ------------ | -------- | ------ | --------- |
 | key   | keycap_ten   | kimono   | kiss   | kissing   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## L
 
@@ -107,7 +107,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --------- | ------------------- | -------------------- | ---------------------- | ------------------- |
 | lantern   | large_blue_circle   | large_blue_diamond   | large_orange_diamond   | last_quarter_moon   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## M
 
@@ -115,7 +115,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ----- | ----------- | --------- | --------- |
 | m   | mag   | mag_right   | mahjong   | mailbox   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593;back to top](#how-to-use)**
 
 ## N
 
@@ -123,7 +123,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----------- | ------------ | ----------- | --------- | ----------------------------- |
 | nail_care   | name_badge   | neckbeard   | necktie   | negative_squared_cross_mark   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## O
 
@@ -131,7 +131,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ---- | ------- | --------- | --------- |
 | o   | o2   | ocean   | octocat   | octopus   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## P
 
@@ -139,11 +139,15 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --------- | ---------------- | ---------------- | ------- | ----------- |
 | package   | page_facing_up   | page_with_curl   | pager   | palm_tree   |
 
+**[&#8593; back to top](#how-to-use)**
+
 ## Q
 
 | :question: |
 | ---------- |
 | question   |
+
+**[&#8593; back to top](#how-to-use)**
 
 ## R
 
@@ -151,7 +155,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------- | --------- | ----------- | ------- | -------------- |
 | rabbit   | rabbit2   | racehorse   | radio   | radio_button   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## S
 
@@ -159,7 +163,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ---- | ------------- | ---------- | ------ | -------- |
 | sa   | sagittarius   | sailboat   | sake   | sandal   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## T
 
@@ -167,7 +171,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ------ | --------------- | ----------- | -------- | ------ |
 | tada   | tanabata_tree   | tangerine   | taurus   | taxi   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## U
 
@@ -175,7 +179,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ------- | ------- | ------- | ------- | ------- |
 | u5272   | u5408   | u55b6   | u6307   | u6708   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## V
 
@@ -183,7 +187,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- | ------------------------ | ----- | ---------------- | -------------- |
 | v   | vertical_traffic_light   | vhs   | vibration_mode   | video_camera   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## W
 
@@ -191,7 +195,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --------- | ---------------------- | --------------------- | --------- | ------- |
 | walking | waning_crescent_moon   | waning_gibbous_moon   | warning   | watch   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## X
 
@@ -199,7 +203,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | --- |
 | x   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## Y
 
@@ -207,7 +211,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | -------------- | ----- | ----- |
 | yellow_heart   | yen   | yum   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## Z
 
@@ -215,7 +219,7 @@ The short-codes for these Emoji’s are very simple. Just surround the name of t
 | ----- | ------ | ----- |
 | zap   | zero   | zzz   |
 
-**[⬆ back to top](#how-to-use)**
+**[&#8593; back to top](#how-to-use)**
 
 ## Contributing
 
